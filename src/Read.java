@@ -5,7 +5,6 @@ public class Read {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter number:");
         int number=scanner.nextInt();
-        String read;
         if(number>0&&number<20){
             ones(number);
         }
