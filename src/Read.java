@@ -25,7 +25,7 @@ public class Read {
         }
     }
     static void ones(int a){
-        String readOnes="";
+        String readOnes;
         switch (a){
             case 1:
                 readOnes="one ";
